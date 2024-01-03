@@ -24,4 +24,6 @@ yarn-error.log*
 /mongo-db-data/
 /backend/credentials.json
 /backend/node_modules/
+/backend/build/
+/backend/.env
 /react_full_stack/node_modules/
